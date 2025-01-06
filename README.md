@@ -1,7 +1,9 @@
 # Maven-Movies-Rental-Store_DA
-Data Analysis Project for Rental Movie Business.
+## Data Analysis Project for Rental Movie Business.
 
-Maven Movies Data Analysis: Enhancing Insights for a Rental Business
+<img src="https://github.com/mayur-42/Maven-Movies-Rental-Store_DA/blob/main/maven_movies_images.png" alt="myql-logo" width="300" height="150"/>
+
+## Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 ## Project Overview:
 This project analyzes a movie rental business's database to provide actionable insights for improving operations, marketing strategies, and inventory management. The dataset is hosted in the MAVENMOVIES database, and SQL was extensively used for exploratory data analysis (EDA), schema understanding, and answering business-critical ad-hoc queries.
 
