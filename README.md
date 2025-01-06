@@ -30,7 +30,8 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 # Q2. How many movies are with rental rate of $0.99? 
 
-https://github.com/mayur-42/Maven-Movies-Rental-Store_DA/blob/main/Code_OUTPUTS/Output_Q2.PNG
+![Output_Q2](https://github.com/user-attachments/assets/db605990-cbd0-434a-a4aa-bc6807298064)
+
 
 # Q3. We want to see rental rate and how many movies are in each rental category 
 
