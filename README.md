@@ -21,7 +21,10 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 ## Tools & Library Used
 
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql-logo" width="200" height="100"/>
 
+
+# Query Task -
 
 ## Q1. You need to provide customer firstname, lastname and email id to the marketing team 
 
