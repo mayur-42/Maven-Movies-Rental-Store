@@ -4,14 +4,20 @@
 <img src="https://github.com/mayur-42/Maven-Movies-Rental-Store_DA/blob/main/maven_movies_images.png" alt="myql-logo" width="300" height="150"/>
 
 ## Maven Movies Data Analysis: Enhancing Insights for a Rental Business
-## Project Overview:
+---
+
+## 📖 Project Overview:
 This project analyzes a movie rental business's database to provide actionable insights for improving operations, marketing strategies, and inventory management. The dataset is hosted in the MAVENMOVIES database, and SQL was extensively used for exploratory data analysis (EDA), schema understanding, and answering business-critical ad-hoc queries.
 
-## Project Objectives:
+---
+
+## 💡 Project Objectives:
 Customer Insights:
 Identify customer details (names, emails) for targeted marketing campaigns. Analyze customer rental patterns to improve customer engagement.
 
-## Movie Inventory Analysis:
+---
+
+## 🔍 Movie Inventory Analysis:
 Explore the rental inventory and classify movies based on rental rates and availability. Provide recommendations for expanding the movie collection based on popularity and rental rates. Revenue Optimization:
 
 Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
@@ -19,12 +25,15 @@ Analyze rental rates to identify trends and the profitability of various pricing
 ## Operational Efficiency:
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
-## Tools & Library Used
+---
+
+## 📊 Tools & Library Used
 
 <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql-logo" width="200" height="100"/>
 
+--- 
 
-# Query Task -
+# 📂 Query Task -
 
 ## Q1. You need to provide customer firstname, lastname and email id to the marketing team 
 
